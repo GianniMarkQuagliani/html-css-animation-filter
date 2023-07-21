@@ -13,3 +13,7 @@
 .ex-2-square{
     transition: 2s;
 }
+
+.ex-3-square{
+    border-radius: 100%;
+}
