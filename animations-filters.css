@@ -49,3 +49,7 @@
 .ex-7-img:hover{
     filter: grayscale(.6) sepia(.5);
 }
+
+.ex-7-img{
+    transition: 2s;
+}
