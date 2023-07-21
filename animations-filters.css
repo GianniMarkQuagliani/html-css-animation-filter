@@ -109,12 +109,24 @@
 
 @keyframes moveTopWhite {
     0%{
-        left: 20%;
+        left: 10%;
     }
     50%{
-        left: calc(100% -60px);
+        left: calc(100% - 60px);
     }
     100%{
-        left: 20%;
+        left: 10%;
+    }
+}
+
+@keyframes moveBottomWhite {
+    0%{
+        right: 20%;
+    }
+    50%{
+        right: calc(100% - 60px);
+    }
+    100%{
+        right: 20%;
     }
 }
