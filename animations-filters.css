@@ -78,3 +78,7 @@
         transform: rotate(1turn);
     }
 }
+
+.ex-10-icon{
+    animation: spin 1s linear infinite;
+}
