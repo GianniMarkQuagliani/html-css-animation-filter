@@ -72,3 +72,9 @@
 .ex-9-img{
     transition: 2s;
 }
+
+@keyframes spin {
+    0% {
+        transform: rotate(1turn);
+    }
+}
