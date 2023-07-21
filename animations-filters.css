@@ -85,6 +85,9 @@
     animation: moveTopWhite 2s linear;
 }
 
+.ex-12-button:hover .ex-12-bottom-white{
+    animation: moveBottomWhite 2s linear;
+}
 /* keyframes*/
 @keyframes spin {
     0% {
