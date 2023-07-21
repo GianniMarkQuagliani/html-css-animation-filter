@@ -62,3 +62,7 @@
 .ex-8-img{
     transition: 2s;
 }
+
+.ex-9-img:hover{
+    filter: grayscale(.6) sepia(.5);
+}
