@@ -21,3 +21,7 @@
 .ex-3-square{
     transition: 1s;
 }
+
+.ex-4-square:hover{
+    opacity: 0;
+}
