@@ -73,12 +73,17 @@
     transition: 2s;
 }
 
+.ex-10-icon{
+    animation: spin 1s linear infinite;
+}
+
+.ex-11-icon:hover{
+    animation: spinALittleBit 2s linear;
+}
+
+/* keyframes*/
 @keyframes spin {
     0% {
         transform: rotate(1turn);
     }
-}
-
-.ex-10-icon{
-    animation: spin 1s linear infinite;
 }
