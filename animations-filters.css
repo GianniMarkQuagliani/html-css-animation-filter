@@ -9,3 +9,7 @@
 .ex-2-square:active{
     width: 100%;
 }
+
+.ex-2-square{
+    transition: 2s;
+}
