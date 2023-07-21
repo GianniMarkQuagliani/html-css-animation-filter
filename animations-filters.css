@@ -81,6 +81,10 @@
     animation: spinALittleBit 2s linear;
 }
 
+.ex-12-button:hover .ex-12-top-white{
+    animation: moveTopWhite 2s linear;
+}
+
 /* keyframes*/
 @keyframes spin {
     0% {
