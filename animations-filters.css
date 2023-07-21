@@ -1,7 +1,7 @@
 .ex-1-square{
-    background: red;
+    transition: 2s;
 }
 
 .ex-1-square:hover{
-    transition: 2s;
+    background: red;
 }
